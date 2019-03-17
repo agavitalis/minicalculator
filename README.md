@@ -1,3 +1,5 @@
-# minicalculator
-Mini Calculator by Ogbonna Vitalis, specially dedicated to my  Mentor, Nnamdi, He made me get my hands dirty..lol. Osita, He makes me think.. Christy,Her zeal motivates me.. And to all my colleagues at Genesys.. I love you all
-This calculator does basic operations like addition,subtraction,multiplication and division
+# Mini Calculator
+
+## About Mini Calculator
+This calculator does basic operations like addition,subtraction,multiplication and division, its interface is pretty nice. 
+Check it out on this link : https://minicalculator-v.herokuapp.com
